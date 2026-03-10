@@ -103,7 +103,8 @@ An automated system that:
 
 ## 📜 Certificate
 
-![Certificate](certificates/EmpowerMe_Certificate.pdf)
+![IMG_8305 2](https://github.com/user-attachments/assets/e3075336-d27d-4311-afec-e440525c0168)
+
 
 ---
 
