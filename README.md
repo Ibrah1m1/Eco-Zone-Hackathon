@@ -1,4 +1,5 @@
 # 🌱 Eco Zone Hackathon
+<img width="914" height="512" alt="Screenshot 2026-03-11 at 2 47 31 AM" src="https://github.com/user-attachments/assets/dcb3fd3f-c53a-4bb3-b743-c24c0aa7391d" />
 
 > **EmpowerMe Hackathon - INJAZ/Starbucks Foundation**
 
@@ -73,9 +74,11 @@ An automated system that:
 
 ## 📸 Prototype Screenshots
 
-![Dashboard](screenshots/dashboard.png)
-![Alerts](screenshots/alerts.png)
-![Community](screenshots/community.png)
+<img width="408" height="229" alt="Screenshot 2026-03-11 at 2 45 42 AM" src="https://github.com/user-attachments/assets/2109425a-d2e3-4138-8878-da2c8b48da0f" />
+
+<img width="573" height="323" alt="Screenshot 2026-03-11 at 2 46 33 AM" src="https://github.com/user-attachments/assets/57beb54e-a164-4d83-bb33-44b765c47fa9" />
+
+
 
 ---
 
